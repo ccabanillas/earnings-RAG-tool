@@ -3,7 +3,7 @@ __pycache__/
 *.pyc
 
 # Ignore virtual environment
-env/
+renv/
 
 # Don't ignore test data
 !tests/data/
