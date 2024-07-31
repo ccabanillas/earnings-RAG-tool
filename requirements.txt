@@ -1,3 +1,7 @@
 nltk
 spacy
 textblob
+openai
+python-dotenv
+pinecone-client
+tiktoken
